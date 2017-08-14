@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>1.png</file>
+        <file>2.png</file>
+        <file>image_error_page.png</file>
+        <file>image_home_item_default.png</file>
+    </qresource>
+</RCC>
